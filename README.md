@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Daviator1206
-- 👀 I’m interested in coding
+- 👀 Passionate Developer
 - 🌱 I’m currently learning MERN stack
 
 
