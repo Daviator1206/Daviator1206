@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Daviator1206
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c++, python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning MERN stack
+
 
 <!---
 Daviator1206/Daviator1206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
