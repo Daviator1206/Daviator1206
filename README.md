@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daviator1206
+- 👋 Hi, I’m @Krishnamurti Rawat
 - 👀 Passionate Developer
 - 🌱 I’m currently learning MERN stack
 
